@@ -1,7 +1,7 @@
 
 
 body {
-	margin: 100px,10px,10px,10px;
+	margin: 20px;
 	background-color: white;
 
 	background-repeat: no-repeat;
@@ -23,7 +23,7 @@ h1 {
 p {
 	text-align: justify;
 	font-family: verdana;
-	font-size: 20px;
+	font-size: 14px;
 	opacity: 1.0;
 	padding: 5px;
 }
@@ -55,6 +55,7 @@ p.desc {
 	color:black;
 	padding-left: 20px;
 	font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+	font-size: 18px;
 }
 
 div.blueback {
